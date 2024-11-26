@@ -1,0 +1,14 @@
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\bin\Debug\net8.0\Áruház rendszer.exe
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\bin\Debug\net8.0\Áruház rendszer.deps.json
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\bin\Debug\net8.0\Áruház rendszer.runtimeconfig.json
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\bin\Debug\net8.0\Áruház rendszer.dll
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\bin\Debug\net8.0\Áruház rendszer.pdb
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\Áruház rendszer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\Áruház rendszer.AssemblyInfoInputs.cache
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\Áruház rendszer.AssemblyInfo.cs
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\Áruház rendszer.csproj.CoreCompileInputs.cache
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\Áruház rendszer.dll
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\refint\Áruház rendszer.dll
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\Áruház rendszer.pdb
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\Áruház rendszer.genruntimeconfig.cache
+C:\Users\tothk\OneDrive\Dokumentumok\11.-es anyag\asztali játéfejlesztés (C#)\Áruház rendszer\obj\Debug\net8.0\ref\Áruház rendszer.dll
